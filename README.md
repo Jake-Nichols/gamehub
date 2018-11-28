@@ -1,1 +1,1 @@
-# sidescroller-game
+# sidescroller-game assets and working files
